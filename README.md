@@ -22,3 +22,8 @@ Retângulos 2 e 3: 90, 90 (olhos).
 Retângulo 4: 70, 100 (nariz).
 Retângulos 5 e 6: 40, 110 (parte da boca).
 O seu canvas deve ter o tamanho de 600 x 400 pixels.
+
+![image](https://user-images.githubusercontent.com/118029665/206812709-289f065a-d229-4453-924c-1c841df54e2f.png)
+
+![image](https://user-images.githubusercontent.com/118029665/206812731-5a45dddb-2f22-421a-acc1-4928269471ea.png)
+
